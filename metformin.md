@@ -25,6 +25,21 @@ Metformin Associated Lactic Acidosis is a serious and not entirely rare complica
 
 Traditionally metformin has been held in patinets admitted to intensive care either (rightly) because of the concern about lactic acidosis or (in my opinion wrongly) because of concerns about hypoglycaemia. 
 
-A study from xxx demonstrated that 
+Lactate is certainly higher in patients who present to ICU and who are taking metformin and is significantly higher still if they have an acute kidney injury, as shown in [this neat study by Postma et al in 2020] (https://ccforum.biomedcentral.com/articles/10.1186/s13054-020-03300-y). The researches looked at 
 
-## What's the evidence it works?
+A [retrospective propensity matched cohort study from Gomez et al](https://journals.lww.com/ccmjournal/abstract/2022/06000/association_of_metformin_use_during.4.aspx) looked at 14,847 patients in the US from 2008-2014 presenting with sepsis and a history of diabetes mellitus. They matched patients who had exposure to metformin during their hospitlisation with controls and found a decreaed 90-day mortality (11.9% vs 22.7%, OR 0.46). They concluded that *"Metformin exposure during hospitalization is associated with a decrease in 90-day mortality in patients with type 2 diabetes mellitus and sepsis."*
+
+An earlier [study done in Denmark by Christansen et al] (https://ccforum.biomedcentral.com/articles/10.1186/cc12886) looked at patients with type 2 diabetes admitted to intensive care between 2005-11 and compared metformin use before admission those without metformin exposure. Mortality was significantly different (17.6% in the metformin group, 25% in non-metformin users. The authors concluded that *"Preadmission metformin use was associated with reduced 30-day mortality among medical and surgical intensive care patients with type 2 diabetes."*
+
+
+## How can we use it safely?
+
+
+Our experience using metformin in critical care is that it is effective at lowering blood glucose and avoids the need for insulin treatment. 
+
+**We stop metformin in anyone who has stage 3 acute kidney injury, lactic acidosis or who is at risk of lactic acidosis (shock requiring large doses of vasopressors).**
+
+
+We start metformin in any patient who usually takes it pre admission and start it in any patient who is known type 2 diabetic or who is diagnosed with diabetes on admission (this is why checking HbA1c on admission is so important). The starting dose is 500mg tds which can be built up to 1g bd if tolerated by the gut. 
+
+
