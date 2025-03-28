@@ -10,10 +10,6 @@ hero:
 markdownStyles: false
 
 features:
-  - icon:
-    title: Glucose in ICU
-    details: Why it matters and what should we be aiming for.
-    link: # (add link later)
   - icon: 🤕
     title: Hypoglycaemia
     details: Why hypoglycaemia is bad for our patients and why we need to treat them differently in critical care
