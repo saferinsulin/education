@@ -1,8 +1,16 @@
 # Metformin
 
-## What is it and how does it work?
+## The Simple Stuff
 
-#### **Metformin is the first line treatment for type 2 diabetes in most countries. It is cheap, effective at lowering blood glucose and has been shown to reduce the risk of death in people with type 2 diabetes**
+- Metformin is the first line treatment for type 2 diabetes in most countries. It is cheap, effective at lowering blood glucose and has been shown to reduce the risk of death in people with type 2 diabetes. 
+- Patients who normally take metformin may benefit from having it continued when they are admitted to ICU as it is effective at controlling blood glucose without the risk of hypoglycaemia and minimises the need for insulin.
+- Metformin can cause lactic acidosis in overdose or when there is severe kidney injury as it's only excreted by the kidney, we therefore advise stopping when AKI stage 3 is present, when lactate is > 2mmol/l or when on high doses of vasopressors (ie at risk of lactic acidosis)
+- It can be safely restarted once a patient's acute criticall illness is resolving and they can take enteral medications
+- For those with hyperglycaemia and a new diagnosis of diabetes or who don't normally take metformin, we consider starting metformin to reduce the need for IV insulin. 
+- Most metformin is prescribed as an Modified Release preparation (which can't go down a feeding tube). We recommend using liquid solution. This can be prescribed tds
+- We start metformin at 500mg tds but can be increased to 1g bd. 
+
+Please review your own unit guidelines before, a [a link to ours can be found here for reference.](https://www.northerncarealliance.nhs.uk/our-policy-hub?open=55908) 
 
 ### How does it work?
 We know quite a lot about how metformin works but there's still a lot that we don't know. For an excellent overview of it's many suspected mechanisms of action see these two articles by xxxet al and xxx et al. I've done my best to summarise them here for those short on time but you'll see how it's not that simple!
