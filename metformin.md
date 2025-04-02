@@ -59,7 +59,6 @@ Our experience using metformin in critical care is that it is effective at lower
 
 **We stop metformin in anyone who has stage 3 acute kidney injury, lactic acidosis or who is at risk of lactic acidosis (shock requiring large doses of vasopressors).**
 
-
-We start metformin in any patient who usually takes it pre admission and start it in any patient who is known type 2 diabetic or who is diagnosed with diabetes on admission (this is why checking HbA1c on admission is so important). The starting dose is 500mg tds which can be built up to 1g bd if tolerated by the gut. 
+In the absence of these contraindications we start metformin in any patient who usually takes it pre admission and start it in any patient who is known type 2 diabetic or who is diagnosed with diabetes on admission (this is why checking HbA1c on admission and getting the right diagnosis is so important). Most patients who take metformin are prescribed a modified release preparation which cannot be given down an enteral feeding tube. For this reason we use a liquid preparation. It can be given tds to make it's effect last across the day and the usual dose can be prescribed. When starting it for patients not previously taking it we start at 500mg tds but this can be increased to a maximum of 1g bd.
 
 
