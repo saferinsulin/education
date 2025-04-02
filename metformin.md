@@ -56,7 +56,7 @@ Lactate is certainly higher in patients who present to ICU and who are taking me
 
 ![Lactate levels for metformin users and nonusers](/public/Lactate%20in%20metformin.jpg)
 
-Image reproduced from Postma et al[^1]. Mean lactate trajectories over time with 95% confidence interval for metformin users and nonusers were fitted by a mixed-effect model with individual-level random intercept and slope. Time after ICU admission was modeled as natural cubic spline with knot location at − 1 h, + 4 h, and + 12 h surrounding intensive care unit admission. a Total population. Subsequently, analyses were stratified according to b chronic kidney disease stage based on mean estimated glomerular filtration rate (eGFR) 1 year before ICU admission or c acute kidney injury (AKI) stage within 24 h of ICU admission
+Image reproduced from Postma et al.[^1] Mean lactate trajectories over time with 95% confidence interval for metformin users and nonusers were fitted by a mixed-effect model with individual-level random intercept and slope. Time after ICU admission was modeled as natural cubic spline with knot location at − 1 h, + 4 h, and + 12 h surrounding intensive care unit admission. a Total population. Subsequently, analyses were stratified according to b chronic kidney disease stage based on mean estimated glomerular filtration rate (eGFR) 1 year before ICU admission or c acute kidney injury (AKI) stage within 24 h of ICU admission
 
 > Metformin associated lactic acidosis is a serious complication that can arise in overdose or in patients who develop acute kidney injury and continue to take metformin
 
