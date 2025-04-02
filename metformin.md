@@ -39,7 +39,12 @@ This is a serious and not entirely rare complication of metformin use. Metformin
 
 Traditionally metformin has been held in patinets admitted to intensive care either (rightly) because of the concern about lactic acidosis or (in my opinion wrongly) because of concerns about hypoglycaemia. 
 
-Lactate is certainly higher in patients who present to ICU and who are taking metformin and is significantly higher still if they have an acute kidney injury, as shown in [this neat study by Postma et al in 2020] (https://ccforum.biomedcentral.com/articles/10.1186/s13054-020-03300-y). The researches looked at 
+Lactate is certainly higher in patients who present to ICU and who are taking metformin and is significantly higher still if they have an acute kidney injury, as shown in [this study by Postma et al in 2020] (https://ccforum.biomedcentral.com/articles/10.1186/s13054-020-03300-y). 
+
+1[Lactate levels for metformin users and nonusers according to estimated glomerular filtration rate and acute kidney injury stage.](Lactate in metformin.jpg).
+Mean lactate trajectories over time with 95% confidence interval for metformin users and nonusers were fitted by a mixed-effect model with individual-level random intercept and slope. Time after ICU admission was modeled as natural cubic spline with knot location at − 1 h, + 4 h, and + 12 h surrounding intensive care unit admission. a Total population. Subsequently, analyses were stratified according to b chronic kidney disease stage based on mean estimated glomerular filtration rate (eGFR) 1 year before ICU admission or c acute kidney injury (AKI) stage within 24 h of ICU admission
+
+
 
 A [retrospective propensity matched cohort study from Gomez et al](https://journals.lww.com/ccmjournal/abstract/2022/06000/association_of_metformin_use_during.4.aspx) looked at 14,847 patients in the US from 2008-2014 presenting with sepsis and a history of diabetes mellitus. They matched patients who had exposure to metformin during their hospitlisation with controls and found a decreaed 90-day mortality (11.9% vs 22.7%, OR 0.46). They concluded that *"Metformin exposure during hospitalization is associated with a decrease in 90-day mortality in patients with type 2 diabetes mellitus and sepsis."*
 
