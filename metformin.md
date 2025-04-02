@@ -11,6 +11,7 @@
 - We start metformin at 500mg tds but can be increased to 1g bd. 
 
 As always, this is for education purposes and not a guideline. Please follow your own unit guidelines, a [a link to ours can be found here for reference.](https://www.northerncarealliance.nhs.uk/our-policy-hub?open=55908) 
+
 ---
 ## Metformin pharmacology
 
@@ -19,7 +20,9 @@ A lot is known about how metformin works at many different sites in the body but
 
 ## Mechanisms of action 
 
-Metformin has been used as a herbal remedy for centuries before it's description as a glucose lowering drug in the early 1900's. It is found in nature from the french lilac 
+Metformin has been used as a herbal remedy for centuries before it's description as a glucose lowering drug in the early 1900's. It is a biguanide derived from the naturally occuring biguanide found in the french lilac plant ![french lilac](/public/Common_Lilac.jpg). Biguanides are two molecules of guanide bonded together so the molecule itself is small and is therefore filtered easily by the glomerulus. ![biguanide](/public/Biguanide_structure.jpg). It is so well excreted that it displays "flip-flop" pharmacokinetics which is where the rate of excretion from the body exceeds the rate of absorption. For this reason it's generally given as a modified release to ensure a constant plasma concentration throughout the day. 
+
+
 ### Glucose lowering effects
 Metformin seems to work through multiple pathways
 1. Reducing hepatic gluconeogenesis - the liver produces out about 200g of glucose a day in normal health. Metformin acts to block the function of the mitocondria within the hepatocyte which reduces the amount of glucose being released into the blood. This is thought to happen through a few different routes including blocking the production of ATP and enzymes that induce gluconeogensis
