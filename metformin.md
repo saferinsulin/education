@@ -20,7 +20,10 @@ A lot is known about how metformin works at many different sites in the body but
 
 ## Mechanisms of action 
 <img align=right src="/public/Common_Lilac.jpg" alt="a picture of a common lilac" width="200" height="200">
-Metformin has been used as a herbal remedy for centuries before it's description as a glucose lowering drug in the early 1900's. It is a biguanide derived from the naturally occuring biguanide found in the french lilac plant. Biguanides are two molecules of guanide bonded together so the molecule itself is small and is therefore filtered easily by the glomerulus. 
+Metformin has been used as a herbal remedy for centuries before it's description as a glucose lowering drug in the early 1900's. It is a biguanide derived from the naturally occuring biguanide found in the french lilac plant.
+
+
+Biguanides are two molecules of guanidine bonded together. The molecule itself is small and is therefore filtered easily by the glomerulus. 
 
 
 <img align=left src="/public/Biguanide_structure.jpg" alt="a picture of the a biguanide structure" width="380" height="200">
