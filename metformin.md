@@ -35,30 +35,41 @@ Metformin seems to work through multiple pathways
 Most of the concerns about safety for metformin are related to the risk of lactic acidosis. Before reviewing this it's important to state that **metformin does not cause hypoglycaemia in normal use** and this should not be a consideration when deciding to prescribe. It does cause gastrointestinal side effects in normal use such as diarrhoea and bloating which is a common reason for it to be stopped in the community. This is rarely a contraindication in critical care
 
 ### Metformin Associated Lactic Acidosis
-This is a serious and not entirely rare complication of metformin use. Metformin is not metabolised by the liver and is excreted unchanged in the urine. It is a small molecule so filtered easily and renal function needs to decline significantly before toxic effects are apparent. Most cases of MALA are in patients who continue to take metformin and experience an acute illness that causes AKI. The presentation is dramatic with severe lactic acidosis and whilst it is quickly reversible with resuscitation and renal replacement, mortality remains high.
+This is a serious and not entirely rare complication of metformin use. Metformin is not metabolised by the liver and is excreted unchanged in the urine. It is a small molecule so filtered easily and renal function needs to decline significantly before toxic effects are apparent. Most cases of MALA are in patients who continue to take metformin and experience an acute illness that causes renal failure. The presentation is dramatic with severe lactic acidosis and whilst it is quickly reversible with resuscitation and renal replacement, mortality remains high.
 
-Traditionally metformin has been held in patinets admitted to intensive care either (rightly) because of the concern about lactic acidosis or (in my opinion wrongly) because of concerns about hypoglycaemia. 
+Traditionally metformin has been held in patinets admitted to intensive care either (rightly) because of the concern about lactic acidosis or (perhaps wrongly) because of concerns about hypoglycaemia. 
+
 
 Lactate is certainly higher in patients who present to ICU and who are taking metformin and is significantly higher still if they have an acute kidney injury, as shown in [this study by Postma et al in 2020] (https://ccforum.biomedcentral.com/articles/10.1186/s13054-020-03300-y). 
 
 ![Lactate levels for metformin users and nonusers](/public/Lactate%20in%20metformin.jpg)
 
-Image reporoduced from Postma et al [^1]. Mean lactate trajectories over time with 95% confidence interval for metformin users and nonusers were fitted by a mixed-effect model with individual-level random intercept and slope. Time after ICU admission was modeled as natural cubic spline with knot location at − 1 h, + 4 h, and + 12 h surrounding intensive care unit admission. a Total population. Subsequently, analyses were stratified according to b chronic kidney disease stage based on mean estimated glomerular filtration rate (eGFR) 1 year before ICU admission or c acute kidney injury (AKI) stage within 24 h of ICU admission
+Image reproduced from Postma et al [^1]. Mean lactate trajectories over time with 95% confidence interval for metformin users and nonusers were fitted by a mixed-effect model with individual-level random intercept and slope. Time after ICU admission was modeled as natural cubic spline with knot location at − 1 h, + 4 h, and + 12 h surrounding intensive care unit admission. a Total population. Subsequently, analyses were stratified according to b chronic kidney disease stage based on mean estimated glomerular filtration rate (eGFR) 1 year before ICU admission or c acute kidney injury (AKI) stage within 24 h of ICU admission
 
+> Metformin associated lactic acidosis is a serious complication that can arise in overdose or in patients who develop acute kidney injury and continue to take metformin
+
+
+**In the absence of end stage renal failure and lactic acidosis, is metformin safe for use in critical care?**
+
+There are as yet no randomised control studies to answer this question but there are plenty of retrospective cohort studies that show an interesting association between metformin use and better outcomes from critical illness. This has been shown in influenza, COVID-19 and in cohorts of all causes presenting to ICU. 
 
 
 A [retrospective propensity matched cohort study from Gomez et al](https://journals.lww.com/ccmjournal/abstract/2022/06000/association_of_metformin_use_during.4.aspx) looked at 14,847 patients in the US from 2008-2014 presenting with sepsis and a history of diabetes mellitus. They matched patients who had exposure to metformin during their hospitlisation with controls and found a decreaed 90-day mortality (11.9% vs 22.7%, OR 0.46). They concluded that *"Metformin exposure during hospitalization is associated with a decrease in 90-day mortality in patients with type 2 diabetes mellitus and sepsis."*
 
-An earlier [study done in Denmark by Christansen et al] (https://ccforum.biomedcentral.com/articles/10.1186/cc12886) looked at patients with type 2 diabetes admitted to intensive care between 2005-11 and compared metformin use before admission those without metformin exposure. Mortality was significantly different (17.6% in the metformin group, 25% in non-metformin users. The authors concluded that *"Preadmission metformin use was associated with reduced 30-day mortality among medical and surgical intensive care patients with type 2 diabetes."*
+An earlier [study done in Denmark by Christansen et al] (https://ccforum.biomedcentral.com/articles/10.1186/cc12886) [^2] looked at patients with type 2 diabetes admitted to intensive care between 2005-11 and compared metformin use before admission those without metformin exposure. Mortality was significantly different (17.6% in the metformin group, 25% in non-metformin users. The authors concluded that *"Preadmission metformin use was associated with reduced 30-day mortality among medical and surgical intensive care patients with type 2 diabetes."*
+
+
+> There is evidence that metformin exposure before and during admission to critical care is associated with a reduced risk of mortality
 
 
 ## How can we use it safely?
 
 
-Our experience using metformin in critical care is that it is effective at lowering blood glucose and avoids the need for insulin treatment. 
+Our experience using metformin in critical care is that it is effective at lowering blood glucose and may reduce the need for treatment with insulin infusions. 
 
 **We stop metformin in anyone who has stage 3 acute kidney injury, lactic acidosis or who is at risk of lactic acidosis (shock requiring large doses of vasopressors).**
 
-In the absence of these contraindications we start metformin in any patient who usually takes it pre admission and start it in any patient who is known type 2 diabetic or who is diagnosed with diabetes on admission (this is why checking HbA1c on admission and getting the right diagnosis is so important). Most patients who take metformin are prescribed a modified release preparation which cannot be given down an enteral feeding tube. For this reason we use a liquid preparation. It can be given tds to make it's effect last across the day and the usual dose can be prescribed. When starting it for patients not previously taking it we start at 500mg tds but this can be increased to a maximum of 1g bd.
+In the absence of these contraindications we start metformin in any patient who usually takes it pre-admission and start it in any patient who is known type 2 diabetic or who is diagnosed with diabetes on admission (this is why checking HbA1c on admission and getting the right diagnosis is so important). Most patients who take metformin are prescribed a modified release preparation which cannot be given down an enteral feeding tube. For this reason we use a liquid preparation. It can be given tds to make it's effect last across the day and the usual dose can be prescribed. When starting it for patients not previously taking it we start at 500mg tds but this can be increased to a maximum of 1g bd.
 
-[1^] Posma, R.A., Hulman, A., Thomsen, R.W. et al. Metformin use and early lactate levels in critically ill patients according to chronic and acute renal impairment. Crit Care 24, 585 (2020). https://doi.org/10.1186/s13054-020-03300-y
+[1^]: Posma, R.A., Hulman, A., Thomsen, R.W. et al. Metformin use and early lactate levels in critically ill patients according to chronic and acute renal impairment. Crit Care 24, 585 (2020). https://doi.org/10.1186/s13054-020-03300-y
+[^2]:  Christiansen et al.: Preadmission metformin use and mortality among intensive care patients with diabetes: a cohort study. Critical Care 20132013 17:R192 doi:10.1186/cc12886
