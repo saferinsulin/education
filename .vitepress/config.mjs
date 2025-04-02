@@ -21,6 +21,7 @@ export default defineConfig({
           { text: 'Hypoglycaemia', link: '/hypoglycaemia' },
           { text: 'Insulins', link: '/insulins' },
           { text: 'Metformin', link: '/metformin' },
+          { text: 'Calculator FAQs', link: '/FAQs' },
           // { text: 'COVID-19', link: '/covid' },
         ],
       },
