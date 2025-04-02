@@ -52,7 +52,7 @@ This is a serious and not entirely rare complication of metformin use. Metformin
 Traditionally metformin has been held in patinets admitted to intensive care either (rightly) because of the concern about lactic acidosis or (perhaps wrongly) because of concerns about hypoglycaemia. 
 
 
-Lactate is certainly higher in patients who present to ICU and who are taking metformin and is significantly higher still if they have an acute kidney injury, as shown in [this study by Postma et al in 2020] (https://ccforum.biomedcentral.com/articles/10.1186/s13054-020-03300-y). 
+Lactate is certainly higher in patients who present to ICU and who are taking metformin and is significantly higher still if they have an acute kidney injury, as shown in [this study by Postma et al in 2020](https://ccforum.biomedcentral.com/articles/10.1186/s13054-020-03300-y). 
 
 ![Lactate levels for metformin users and nonusers](/public/Lactate%20in%20metformin.jpg)
 
