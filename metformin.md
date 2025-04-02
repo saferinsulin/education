@@ -57,6 +57,7 @@ There are as yet no randomised control studies to answer this question but there
 A [retrospective propensity matched cohort study from Gomez et al](https://journals.lww.com/ccmjournal/abstract/2022/06000/association_of_metformin_use_during.4.aspx) looked at 14,847 patients in the US from 2008-2014 presenting with sepsis and a history of diabetes mellitus. They matched patients who had exposure to metformin during their hospitlisation with controls and found a decreaed 90-day mortality (11.9% vs 22.7%, OR 0.46). They concluded that *"Metformin exposure during hospitalization is associated with a decrease in 90-day mortality in patients with type 2 diabetes mellitus and sepsis."*
 
 An earlier [study done in Denmark by Christansen et al] (https://ccforum.biomedcentral.com/articles/10.1186/cc12886) [^2] looked at patients with type 2 diabetes admitted to intensive care between 2005-11 and compared metformin use before admission those without metformin exposure. Mortality was significantly different (17.6% in the metformin group, 25% in non-metformin users. The authors concluded that *"Preadmission metformin use was associated with reduced 30-day mortality among medical and surgical intensive care patients with type 2 diabetes."*
+![Hazard ratio of mortality in metformin users. Christiansen et al.](/public/metformin-christiansen.jpeg)
 
 
 > There is evidence that metformin exposure before and during admission to critical care is associated with a reduced risk of mortality
