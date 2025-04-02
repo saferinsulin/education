@@ -84,5 +84,6 @@ Our experience using metformin in critical care is that it is effective at lower
 
 In the absence of these contraindications we start metformin in any patient who usually takes it pre-admission and start it in any patient who is known type 2 diabetic or who is diagnosed with diabetes on admission (this is why checking HbA1c on admission and getting the right diagnosis is so important). Most patients who take metformin are prescribed a modified release preparation which cannot be given down an enteral feeding tube. For this reason we use a liquid preparation. It can be given tds to make it's effect last across the day and the usual dose can be prescribed. When starting it for patients not previously taking it we start at 500mg tds but this can be increased to a maximum of 1g bd.
 
+
 [1^]: Posma, R.A., Hulman, A., Thomsen, R.W. et al. Metformin use and early lactate levels in critically ill patients according to chronic and acute renal impairment. Crit Care 24, 585 (2020). https://doi.org/10.1186/s13054-020-03300-y
 [^2]: Christiansen et al.: Preadmission metformin use and mortality among intensive care patients with diabetes: a cohort study. Critical Care 20132013 17:R192 doi:10.1186/cc12886
