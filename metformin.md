@@ -41,9 +41,9 @@ Traditionally metformin has been held in patinets admitted to intensive care eit
 
 Lactate is certainly higher in patients who present to ICU and who are taking metformin and is significantly higher still if they have an acute kidney injury, as shown in [this study by Postma et al in 2020] (https://ccforum.biomedcentral.com/articles/10.1186/s13054-020-03300-y). 
 
-![Lactate levels for metformin users and nonusers according to estimated glomerular filtration rate and acute kidney injury stage.](/public/Lactate in metformin.jpg)
+![Lactate levels for metformin users and nonusers](/public/lactate in metformin.jpg)
 
-Mean lactate trajectories over time with 95% confidence interval for metformin users and nonusers were fitted by a mixed-effect model with individual-level random intercept and slope. Time after ICU admission was modeled as natural cubic spline with knot location at − 1 h, + 4 h, and + 12 h surrounding intensive care unit admission. a Total population. Subsequently, analyses were stratified according to b chronic kidney disease stage based on mean estimated glomerular filtration rate (eGFR) 1 year before ICU admission or c acute kidney injury (AKI) stage within 24 h of ICU admission
+Image reporoduced from Postma et al [^1]. Mean lactate trajectories over time with 95% confidence interval for metformin users and nonusers were fitted by a mixed-effect model with individual-level random intercept and slope. Time after ICU admission was modeled as natural cubic spline with knot location at − 1 h, + 4 h, and + 12 h surrounding intensive care unit admission. a Total population. Subsequently, analyses were stratified according to b chronic kidney disease stage based on mean estimated glomerular filtration rate (eGFR) 1 year before ICU admission or c acute kidney injury (AKI) stage within 24 h of ICU admission
 
 
 
@@ -61,4 +61,4 @@ Our experience using metformin in critical care is that it is effective at lower
 
 In the absence of these contraindications we start metformin in any patient who usually takes it pre admission and start it in any patient who is known type 2 diabetic or who is diagnosed with diabetes on admission (this is why checking HbA1c on admission and getting the right diagnosis is so important). Most patients who take metformin are prescribed a modified release preparation which cannot be given down an enteral feeding tube. For this reason we use a liquid preparation. It can be given tds to make it's effect last across the day and the usual dose can be prescribed. When starting it for patients not previously taking it we start at 500mg tds but this can be increased to a maximum of 1g bd.
 
-
+[1^] Posma, R.A., Hulman, A., Thomsen, R.W. et al. Metformin use and early lactate levels in critically ill patients according to chronic and acute renal impairment. Crit Care 24, 585 (2020). https://doi.org/10.1186/s13054-020-03300-y
