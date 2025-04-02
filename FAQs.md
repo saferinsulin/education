@@ -12,7 +12,6 @@ If this occurs it is reasonable to change the variables slightly and recalculate
 **The current insulin rate is high and the calculator will not give a recommended rate higher than 15units/hr, what should i do?**
 
 We have set the maximum rate advised by the calculator to 15 units/hr for obvious safety reasons. 
-
 It is very rare for a patient to require 15units/hr of IV insulin to control blood glucose and this should prompt urgent and regular medical and diabetes specialist review. 
 It is essential to:
 Check lines for leaks or misplacement
