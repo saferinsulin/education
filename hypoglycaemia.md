@@ -3,6 +3,9 @@
 
 [Click here for our unit protocol on managing hypoglycaemia in ICU](https://www.northerncarealliance.nhs.uk/application/files/1117/2200/4200/NCACC034QRG1_V1_Hyperglycaemia_Hypoglycaemia_Critical_Care.pdf)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HmofTWPZP4g?si=c-VMeiUz6AWVqWLa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 ## Why Hypoglycaemia in Critical Care Is Very Dangerous
 
 
@@ -18,13 +21,8 @@ Even those hypo's that don't result in an obvious neurological injury may have s
 
 If you've ever looked after or know a person with type 1 diabetes where hypo's are a fact of life, they'll tell you how awful they feel for many hours after a severe hypo. Now imagine that person mounting a response to sepsis, major trauma or surgery, it's not surpising studies have shown a correlation between hypoglycaemic episodes and the risk of mortality from critical illness.  
 
-## How do we reduce this harm?
 
-1. **Avoidance**
-2. **Treatment**
-3. **Learning**
-
-### Avoidance of Hypoglycaemia
+## Avoidance of Hypoglycaemia
 
 Low blood sugar occurs for many reasons on ICU. When we audit hypo's we see the same risk factors everytime:
 
