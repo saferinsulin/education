@@ -2,21 +2,19 @@
 
 Below are some examples of questions that users have asked when using the saferinsulin calculator. This advice is published to improve safety. Insulin is a high-risk medication and infusions should only be administered by staff who are trained to do so. Decisions about prescribing and administering are the responsibility of the clinicians.
 
-## Calculator freezing
-**I’ve inputted the glucose values and insulin rate but the calculator doesn’t appear to work, what should I do?**
-There are some ranges of values that may cause the calculator to freeze or give an error reading. We address these as they are identified and encourage users to report them. This most likely occurs due to a “gap” in the algorithm which results in an error and it doesn’t allow the calculation. Any attempt to fix this may have knock on effects for other inputs.
-If this occurs it is reasonable to change the variables slightly and recalculate. For example if the calculator freezes when a rate of 1.8unit/hr is entered then adjust to 1.9unit/hr and check again. 
-
+## Calculator not available
+**The calculator doesn't appear to be functioning or I cannot access it on my computer!**
+We have built a number of mechanisms that make the saferinsulin calculator as resilient and whilst downtimes are rare please ensure you have a back up plan (this would include your trusts own static/paper variable rate insulin infusion (VRII). Please report any issues with calculator functioning. The calculator can be accessed on any web based device including your mobile phone. 
 
 ## Calculator not increasing rate above 15 units/hr
-**The current insulin rate is high and the calculator will not give a recommended rate higher than 15units/hr, what should i do?**
+**The current insulin rate is high and the calculator will not give a recommended rate higher than 15units/hr, what should I do?**
 
 We have set the maximum rate advised by the calculator to 15 units/hr for obvious safety reasons. 
 It is very rare for a patient to require 15units/hr of IV insulin to control blood glucose and this should prompt urgent and regular medical and diabetes specialist review. 
 It is essential to:
-Check lines for leaks or misplacement
-Check the cannula is not tissued
-Check the infusion is correct and not expired. Consider changing the syringe.
+- Check lines for leaks or misplacement
+- Check the cannula is not tissued
+- Check the infusion is correct and not expired. Consider changing the syringe.
 
 If rates higher than 15units/hr are considered necessary then consider adjuncts such as long acting insulins and use an alternative VRII or FRII.
 
