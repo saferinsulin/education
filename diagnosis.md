@@ -3,9 +3,13 @@
 ## Why Does it Matter?
 
   
-Many lay people think of diabetes as a catch all diagnosis and have little knowledge of the difference in pathology between the types. It is not uncommon and incredibly frustrating for a person who lives with diabetes to be told "you don't look like a diabetic" by those ignorant of the different types of the disease. Most medics outside of diabetes medicine may not be aware of the growing classfication of type of diabetes. So if you don't know your Type 3c from your Type 2 then this is the article for you. 
-  *Why does it mater in ICU?* 
-  Becuase how we manage stress hyperglycaemia in a person with no history of diabetes shoould be different to how we manage hyperglycaemia in a person with Type 2 who is normally poorly controlled. 
+Many lay people think of diabetes as a catch all diagnosis and have little knowledge of the difference in pathology between the types. Most medics can describe the difference between type 1 and type 2 but those outside of diabetes medicine may not be aware of the growing classfication of types of diabetes. So if you don't know your Type 3c from your Type 2 then this is the article for you. 
+
+###*Why does it mater in critical care?* 
+  Because how we manage stress hyperglycaemia in a person with no history of diabetes should be different to how we manage hyperglycaemia in a person with Type 2 who is normally poorly controlled. 
+
+
+  Taking a detailed history and sending a HbA1c on admission can have a big impact on how we manage these patients. 
 
 
   ## HbA1C
@@ -18,6 +22,9 @@ We check the HbA1c **on admission** for all our patients as this has a number of
   When the blood glucose is found to be elevated a few hours or days into the admission it is a useful screening tool to rule in diabetes pre admission when the pateint is not known to be diabetic. Many things happen during an ICU stay that can cause errors with HbA1c (bleeding, anaemia, tranfusion, fluid resuscitation) so doing this test further into the admission does not add as much value to our diagnosis.
   #### Establish severity / control
   Compliance and response to treatment in the community is an important piece of information in guiding management in the ICU but also for planninng management after the patient has recovered and is ready to step down. We recommend a diabetes specialist nurse reviews all our patients with a HbA1c of 60mmol/mol before step down to the ward
+
+
+  > HbA1c can give an estimate of the average blood glucose from the preceeding few weeks. [Check out this calculator to see how simple this is.](https://www.hba1cnet.com/hba1c-calculator/) 
   
 
   ## Types of Diabetes
@@ -31,9 +38,15 @@ So as you can see, even in this broad classification of 4 types there are sub ty
   
   ## How does this change what we do?
 
-  The following are cases from our unit that highlight how imprtant getting the diabetes diagnosis right can be
-  Case 1. Type 3c diabetes
-  A young woman with necrotic pancreatitis was admitted to the ICU and required multiorgan support. During the admission and when critically ill she was requiring large doses of IV insulin to control hyperglycamia. She was started on long acting insulin by the DSN. As she improved her insulin requirements fell and she then started developing hypoglycaemic episodes. Her long acting insulin was reduced and then stopped by the critical care team. A few days later she became unwell and was diagnosed with diabetic ketoacidosis.
-  What happened? This is type 3c diabetes caused by destruction of the islets of langerhans. This type of diabetes is notoriously difficult to manage as the amount of insulin they require varies dramatically day to day. They are prone to big swings in insulin requirements and often need daily adjustments when unwell. If insulin is stopped they can go into DKA rapidly.
+  The following are cases pciked up on critical care glucose ward round  that highlight how important getting the diabetes diagnosis right can be:
+  
+  
+  > #### Case 1.
+> A young woman with no history of diabetes was admitted to the ICU after major abdominal surgery during which she required a splenectomy and distal pancreatectomy. In the days after the operation she developed sepsis and required IV insulin to control her blood glucose. Long acting insulin was started by the diabetes specialist nurse. As she improved her insulin requirements fell and she then started developing hypoglycaemic episodes. Her long acting insulin was reduced and then stopped by the critical care team. A few days later she became unwell and was diagnosed with diabetic ketoacidosis.
+> #### What's the diagnosis?
+> This is type 3c diabetes caused by destruction of the beta cells which can be found in the tail of the pancreas. Typee 3c refers to conditions where diabetes develops after damage to the pancreas from other diseases such as pancreatitis, trauma or as in this case, pancreatectomy.
+> #### Whats the relevance to critical care?
+>  This type of diabetes is notoriously difficult to manage as the amount of insulin they require varies dramatically day to day. They are prone to big swings in insulin requirements and often need daily adjustments when unwell. If insulin is stopped they can go into DKA rapidly so a long acting insulin must be continued and regular (sometimes daily) titration by the diabetes team is needed. 
+
 
   
