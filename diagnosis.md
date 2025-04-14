@@ -49,4 +49,11 @@ So as you can see, even in this broad classification of 4 types there are sub ty
 >  This type of diabetes is notoriously difficult to manage as the amount of insulin they require varies dramatically day to day. They are prone to big swings in insulin requirements and often need daily adjustments when unwell. If insulin is stopped they can go into DKA rapidly so a long acting insulin must be continued and regular (sometimes daily) titration by the diabetes team is needed. 
 
 
+> #### Case 2
+> A 65 year old man is admitted with pneumonia and requires invasive ventilation, steroids and antibtioics. Blood glucose is persistently elevated (10-15mmol/l) for the first few days requiring a variable rate insulin infusion. No previous medical history
+> #### What's the diagnosis?
+> Not clear unless we look at the HbA1c. This is found to be 95mmol/mol. Review of the history and GP care record show's no history of diabetes. This is a new diagnosis of type 2 diabetes. 
+> #### What's the relevance to critical care?
+> This is not simply stress or steroid induced hyperglycaemia and he's not only going to need control in the short term but is likely to need something in the longterm. 
+
   
