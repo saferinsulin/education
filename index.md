@@ -14,6 +14,10 @@ features:
     title: Hypoglycaemia
     details: Why hypoglycaemia is bad for our patients and why we need to treat them differently in critical care
     link: /hypoglycaemia.md
+  - icon: 🩺
+    title: Diagnosis
+    details: Why establishing the diabetes diagnosis and severity matters for critically ill patients
+    link: /diagnosis.md
   - icon: 💉
     title: Know your Insulins!
     details: Why knowing just a little bit more about designer insulins makes you a better intensivist
