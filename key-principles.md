@@ -9,7 +9,7 @@ This is a topic that has been extensively debated in the literature over the yea
 
 My conclusion from the last 30 years of major studies of glucose in critical care can be crystalised into the following 4 axioms:
 
-::: info
+::: info Key Principles
 - **Avoidance of hypoglycaemia is of paramount importance** as this has been associated with worse outcomes in critically ill patients.
 
 - **Hyperglycaemia in critically ill patients is very common** and may be associated with a pre-existing diagnosis of Diabetes Mellitus or may represent a stress response to critical illness.
