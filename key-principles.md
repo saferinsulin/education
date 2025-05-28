@@ -2,7 +2,7 @@
 prev: false
 ---
 
-# The Goldilocks Range for Glucose in ICU
+# The Goldilocks Zone for Glucose 
 
 
 This is a topic that has been extensively debated in the literature over the years and this whilst i've aimed to summarise some of the key points, trials and artices here, I would urge the reader interested in the detail to read published literature reviews such as [this one in the Lancet Diabetes & Endocringology from 2024](https://www.thelancet.com/journals/landia/article/PIIS2213-8587(24)00058-5/fulltext). For a non peer reviewed summary of where i believe we are at please continue...
