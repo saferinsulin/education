@@ -39,3 +39,37 @@ The more recent surgical guidelines may reflect the tendency for us to be more w
 
 
 In conclusion, for patients who are critically ill and have a blood glucose above 10mmol/l, starting IV insulin is evidence-based and may reduce complications such as infection and kidney injury. Delaying for many hours to "see if it settles by itself" can often result in requiring more insulin to acheive the target range, particularly if glucose has continued to climb and this is why our guideliens advise starting IV insulin after 2 readings within 2 hours. 
+
+## What range do we aim for?
+
+> On our unit we aim for 6-10mmol/l.
+
+There have been a few studies looking at the optimal range for glucose in critically ill patients. For a concise summary see [this article by von Loeffelholz et al](https://www.thelancet.com/journals/landia/article/PIIS2213-8587(24)00058-5/fulltext). I'll do my best to avoid controversy in simplifying them here:
+
+#### [2001 LEUVEN Trial, van den Berghe et al](https://www.nejm.org/doi/10.1056/NEJMoa011300?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200www.ncbi.nlm.nih.gov)
+This was the first major trial looking at intensive glucose control (4.4-6.1mmol/l) in patients in a surgical ICU and showed a reduction in mortality from 8 to 4.6% with reductions in all the morbidity that is commonly associated with hyperglycaemia (infections, AKI etc). This compelling trial led to a widespread worldwide roll out of intensive glucose protocols. 
+
+#### [2006 LEUVEN II, van den Berghe et al](https://www.nejm.org/doi/full/10.1056/NEJMoa052521)
+This follow up study by the same authors in the medical ICU wasn't able to demonstrate as great a mortality difference (40% to 37.3% which did not meet statistical significance) but did show reduction in acute kidney injury and length of stay. The authors concluded that intensive glucose control reduced morbidity but not mortality in medical patients admitted to the ICU.
+
+#### 2009 [NICE-SUGAR, Finfer et al](https://www.nejm.org/doi/full/10.1056/NEJMoa0810625)
+This large multicentre study concluded that intensive glucose control (4.5-6.0mmol/l) increased mortality in intensive care compared with conventional control (less than 10mmol/l). A post hoc analysis of the trial concluded that the increased mortality in the intensive arm of the study was atributable to hypoglycaemia and that mortality was associated with the number and severity of episodes of hypoglycamia. 
+
+
+Following the publication of the NICE-SUGAR trial there was a very slow de-adoption of intensive glucose control in ICU's across the world.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tight versus liberal blood-glucose control in the intensive care unit: special considerations for patients with diabetes
+von Loeffelholz, Christian et al.
+The Lancet Diabetes & Endocrinology, Volume 12, Issue 4, 277 - 284
