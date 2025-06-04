@@ -27,9 +27,9 @@ features:
     details: How metformin is safe and useful in ICU for controlling glucose, how to use it and why it might make you live longer!
     link: /metformin.md
   - icon: 📈
-    title: The Goldilock's Zone for Glucose
-    details: What exactly is the right glucose to aim for in Critical Care? How can we safely achieve this?
-    link: # (or add a valid URL)
+    title: The Goldilocks Zone for Glucose
+    details: Too Sweet, Not Sweet Enough. Why do we aim for 6-10mmol/l in critical care?
+    link: /key-principles.md
   - icon: 🌮
     title: No Feed? No Need!
     details: # (add details here or remove this feature if not ready)
