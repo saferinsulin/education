@@ -4,7 +4,7 @@ Below are some examples of questions that users have asked when using the saferi
 
 ## Calculator not available
 **The calculator doesn't appear to be functioning or I cannot access it on my computer!**
-We have built a number of mechanisms that make the saferinsulin calculator as resilient and whilst downtimes are rare please ensure you have a back up plan (this would include your trusts own static/paper variable rate insulin infusion (VRII). Please report any issues with calculator functioning. The calculator can be accessed on any web based device including your mobile phone. 
+We have built a number of mechanisms that make the saferinsulin calculator as resilient as possible and whilst downtimes are rare please ensure you have a back up plan (this would include your trusts own static/paper variable rate insulin infusion (VRII). Please report any issues with calculator functioning. The calculator can be accessed on any web based device including your mobile phone. 
 
 ## Calculator not increasing rate above 15 units/hr
 **The current insulin rate is high and the calculator will not give a recommended rate higher than 15units/hr, what should I do?**
