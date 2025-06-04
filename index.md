@@ -31,9 +31,9 @@ features:
     details: Too Sweet, Not Sweet Enough. Why do we aim for 6-10mmol/l in critical care?
     link: /key-principles.md
   - icon: 🌮
-    title: No Feed? No Need!
-    details: # (add details here or remove this feature if not ready)
-    link: # (add link or remove this key)
+    title: Frequently Asked Questions & Training
+    details: How to use the calculator safely and FAQ's for use
+    link: /FAQs.md
   - icon: 📋
     title: Drugs
     details: A list of commonly used diabetes medications and how their use may be impacted by critical illness
