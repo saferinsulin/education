@@ -23,14 +23,7 @@ export default defineConfig({
         text: 'Safer Insulin in Critical Care',
         link: '/',
         items: [
-          {
-            text: 'Guidelines and QRG (Northern Care Alliance)',
-            link: 'https://www.northerncarealliance.nhs.uk/our-policy-hub?open=55908',
-          },
-          {
-            text: 'Guidelines & QRG (Bolton)',
-            link: 'https://bolton.saferinsulin.org',
-          },
+          { text: 'Guidelines and QRG', link: '/guidelines' },
           { text: 'Glucose in ICU Key Principles', link: '/key-principles' },
           { text: 'Hypoglycaemia', link: '/hypoglycaemia' },
           { text: 'Insulins', link: '/insulins' },
