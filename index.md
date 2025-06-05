@@ -31,7 +31,7 @@ features:
     details: Too Sweet, Not Sweet Enough. Why do we aim for 6-10mmol/l in critical care?
     link: /key-principles.md
   - icon: 🌮
-    title: Frequently Asked Questions & Training
+    title: Training & FAQ's
     details: How to use the calculator safely and FAQ's for use
     link: /FAQs.md
   - icon: 📋
