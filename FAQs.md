@@ -1,10 +1,16 @@
-# Frequently Asked Questions 
+# Calculator Training  & Frequently Asked Questions 
 
+## How to use Saferinsulin.org safely
+
+This video is an aid for practice educators and those working with the Saferinsulin calculator. It is not a substitiute for in person training on the safe use of IV insulin in critical care and the calculator should only be used in units where permission is given by the medical team and formal training has taken place.
+
+
+## Frequently Asked Questions
 Below are some examples of questions that users have asked when using the saferinsulin calculator. This advice is published to improve safety. Insulin is a high-risk medication and infusions should only be administered by staff who are trained to do so. Decisions about prescribing and administering are the responsibility of the clinicians.
 
 ## Calculator not available
 **The calculator doesn't appear to be functioning or I cannot access it on my computer!**
-We have built a number of mechanisms that make the saferinsulin calculator as resilient as possible and whilst downtimes are rare please ensure you have a back up plan (this would include your trusts own static/paper variable rate insulin infusion (VRII). Please report any issues with calculator functioning. The calculator can be accessed on any web based device including your mobile phone. 
+We have built a number of mechanisms that make the Saferinsulin calculator as resilient as possible and whilst downtimes are rare please ensure you have a back up plan, this would include your trusts own static/paper variable rate insulin infusion (VRII). Please report any issues with calculator functioning. The calculator can be accessed on any web based device including your mobile phone. 
 
 ## Calculator not increasing rate above 15 units/hr
 **The current insulin rate is high and the calculator will not give a recommended rate higher than 15units/hr, what should I do?**
