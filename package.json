@@ -11,5 +11,8 @@
     "prettier": "^3.0.3",
     "remark": "^15.0.1",
     "vitepress": "^1.0.0-rc.22"
+  },
+  "dependencies": {
+    "markdown-it-footnote": "^4.0.0"
   }
 }

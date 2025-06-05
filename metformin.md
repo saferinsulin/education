@@ -19,14 +19,14 @@ As always, this is for education purposes and not a guideline. Please follow you
 A lot is known about how metformin works at many different sites in the body but as it's effects are so numerous, a complete description of it's mechanisms of action is yet to be elucidated. For an excellent overview of it's mechanisms of action that have been described see these two articles in Nature Endocrinology Reviews. The first by [Foretz et al](https://inserm.hal.science/inserm-02277186v1/document) covers it's glucose lowering effects, the second, again by [Foretz et al covers some of it's many non glucose lowering effects](https://pmc.ncbi.nlm.nih.gov/articles/PMC10153049/), including those acting on the immune system.  
 
 ## Mechanisms of action 
-<img align=right src="/public/Common_Lilac.jpg" alt="a picture of a common lilac" width="200" height="200">
+<img align=right src="/Common_Lilac.jpg" alt="a picture of a common lilac" width="200" height="200">
 
 
 Metformin has been used as a herbal remedy for centuries before it's description as a glucose lowering drug in the early 1900's. It is a biguanide derived from the naturally occuring biguanide found in the french lilac plant.
 
 Biguanides are two molecules of guanidine bonded together. The molecule itself is small and is therefore filtered easily by the glomerulus. 
 
-<img align=left src="/public/Biguanide_structure.jpg" alt="a picture of the a biguanide structure" width="380" height="200">
+<img align=left src="/Biguanide_structure.jpg" alt="a picture of the a biguanide structure" width="380" height="200">
 
 It is so well excreted that it displays "flip-flop" pharmacokinetics which is where the rate of excretion from the body exceeds the rate of absorption. For this reason it's generally given as a modified release to ensure a constant plasma concentration throughout the day. 
 
@@ -54,7 +54,7 @@ Traditionally metformin has been held in patinets admitted to intensive care eit
 
 Lactate is certainly higher in patients who present to ICU and who are taking metformin and is significantly higher still if they have an acute kidney injury, as shown in [this study by Postma et al in 2020](https://ccforum.biomedcentral.com/articles/10.1186/s13054-020-03300-y). 
 
-![Lactate levels for metformin users and nonusers](/public/Lactate%20in%20metformin.jpg)
+![Lactate levels for metformin users and nonusers](/Lactate%20in%20metformin.jpg)
 
 Image reproduced from Postma et al.[^1] Mean lactate trajectories over time with 95% confidence interval for metformin users and nonusers were fitted by a mixed-effect model with individual-level random intercept and slope. Time after ICU admission was modeled as natural cubic spline with knot location at − 1 h, + 4 h, and + 12 h surrounding intensive care unit admission. a Total population. Subsequently, analyses were stratified according to b chronic kidney disease stage based on mean estimated glomerular filtration rate (eGFR) 1 year before ICU admission or c acute kidney injury (AKI) stage within 24 h of ICU admission
 
@@ -69,7 +69,7 @@ There are as yet no randomised control studies to answer this question but there
 A [retrospective propensity matched cohort study from Gomez et al](https://journals.lww.com/ccmjournal/abstract/2022/06000/association_of_metformin_use_during.4.aspx) looked at 14,847 patients in the US from 2008-2014 presenting with sepsis and a history of diabetes mellitus. They matched patients who had exposure to metformin during their hospitlisation with controls and found a decreaed 90-day mortality (11.9% vs 22.7%, OR 0.46). They concluded that *"Metformin exposure during hospitalization is associated with a decrease in 90-day mortality in patients with type 2 diabetes mellitus and sepsis."*
 
 An earlier [study done in Denmark by Christansen et al](https://ccforum.biomedcentral.com/articles/10.1186/cc12886)[^2] looked at patients with type 2 diabetes admitted to intensive care between 2005-11 and compared metformin use before admission those without metformin exposure. Mortality was significantly different (17.6% in the metformin group, 25% in non-metformin users. The authors concluded that *"Preadmission metformin use was associated with reduced 30-day mortality among medical and surgical intensive care patients with type 2 diabetes."*
-![Hazard ratio of mortality in metformin users. Christiansen et al.](/public/metformin-christiansen.jpeg)
+![Hazard ratio of mortality in metformin users. Christiansen et al.](/metformin-christiansen.jpeg)
 
 
 > There is evidence that metformin exposure before and during admission to critical care is associated with a reduced risk of mortality
