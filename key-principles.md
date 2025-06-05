@@ -1,5 +1,6 @@
 ---
 prev: false
+footer: true
 ---
 
 # The Goldilocks Zone for Glucose 
