@@ -17,7 +17,10 @@ export default defineConfig({
         text: 'Safer Insulin in Critical Care',
         link: '/',
         items: [
-          { text: 'Guidelines and QRG', link: 'https://www.northerncarealliance.nhs.uk/our-policy-hub?open=55908' },
+          {
+            text: 'Guidelines and QRG',
+            link: 'https://www.northerncarealliance.nhs.uk/our-policy-hub?open=55908',
+          },
           { text: 'Hypoglycaemia', link: '/hypoglycaemia' },
           { text: 'Insulins', link: '/insulins' },
           { text: 'Metformin', link: '/metformin' },
@@ -30,8 +33,9 @@ export default defineConfig({
     socialLinks: [],
 
     footer: {
-      message: 'MIT licensed',
-      copyright: 'Copyright © 2023',
+      message:
+        'Educational purposes only.  Please see <a href="/disclaimer">disclaimer</a>.<br><a href="license">MIT licensed</a>.',
+      copyright: 'Copyright © 2025',
     },
     lastUpdated: {
       text: 'Updated at',
