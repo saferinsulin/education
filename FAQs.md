@@ -4,6 +4,8 @@
 
 This video is an aid for practice educators and those working with the Saferinsulin calculator. It is not a substitiute for in person training on the safe use of IV insulin in critical care and the calculator should only be used in units where permission is given by the medical team and formal training has taken place.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZMpv7vOO6Ck?si=O5CS9E9V6o7L8ryE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 ## Frequently Asked Questions
 Below are some examples of questions that users have asked when using the saferinsulin calculator. This advice is published to improve safety. Insulin is a high-risk medication and infusions should only be administered by staff who are trained to do so. Decisions about prescribing and administering are the responsibility of the clinicians.
