@@ -1,13 +1,16 @@
 ---
 prev: false
+footer: true
 ---
 
 # The Goldilocks Zone for Glucose 
-
+::: info
+In a critically ill patient what blood glucose should we start IV insulin and what is our target range?
+:::
 
 This is a topic that has been extensively debated in the literature over the years and whilst i've aimed to summarise some of the key points, trials and artices here, I would urge the reader interested in the detail to read published literature reviews such as [this one in the Lancet Diabetes & Endocringology from 2024](https://www.thelancet.com/journals/landia/article/PIIS2213-8587(24)00058-5/fulltext). For a non peer reviewed summary of where i believe we are at please continue...
 
-My conclusion from the last 30 years of major studies of glucose in critical care can be crystalised into the following 4 axioms:
+My conclusion from the last 30 years of major studies of glucose in critical care can be crystalised into the following 4 principles:
 
 ::: info Key Principles
 - **Avoidance of hypoglycaemia is of paramount importance** as this has been associated with worse outcomes in critically ill patients.
