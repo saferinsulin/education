@@ -14,7 +14,7 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Guidelines', link: '/' },
+      { text: 'Education', link: '/' },
       { text: 'Calculator', link: 'https://saferinsulin.org' },
     ],
     // this is the sidebar section
