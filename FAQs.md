@@ -1,6 +1,6 @@
 # Calculator Training  & Frequently Asked Questions 
 
-## How to use Saferinsulin.org safely
+## How to use Saferinsulin.org
 
 This video is an aid for practice educators and those working with the Saferinsulin calculator. It is not a substitiute for in person training on the safe use of IV insulin in critical care and the calculator should only be used in units where permission is given by the medical team and formal training has taken place.
 
