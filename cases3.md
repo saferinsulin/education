@@ -10,12 +10,16 @@ const answeredCorrectly = ref(false)
 
 const questions = [
   {
-    text: "What is the capital of France?",
+    text: "You are caring for a 48-year-old female patient who is recovering following a sub arachnoid haemorrhage. She has not yet passed a swallow assessment and remains enterally fed. 
+She is known to have type 2 diabetes and normally takes metformin, empagliflozin and Lantus 10 units at home. Since admission she has required insulin to maintain blood glucose between 6-10mmol/l and she has been established on Humulin M3 20 units at start and 8 hours into her feed. She is prescribed a 20 hour feed starting at 2pm.
+You check a blood glucose before the start of the feed at 2pm and it is 4.6mmol/l.
+
+What should you do?",
     image: "https://upload.wikimedia.org/wikipedia/commons/e/e6/Paris_as_seen_from_the_Tour_Saint-Jacques_2011_03.jpg",
     answers: [
-      { text: "Berlin", explanation: "Nope — that’s the capital of Germany.", correct: false },
-      { text: "Madrid", explanation: "Not quite — that’s Spain’s capital.", correct: false },
-      { text: "Paris ✅", explanation: "Correct! Paris is the capital of France.", correct: true }
+      { text: "Give IV glucose", explanation: "Whilst the blood glucose is below target range and close the hypoglycaemic range, the import question here would be whether it's falling. If the most recent glucose was, for example 9.4mmol/l then this would constitute looming hypoglycaemia. She's not hypo yet but she will be. Correcting glucose at 4.6mmol/l would then be the right thing to do. In this case though this result may just reflect a pre-feed level that is too low and starting feed will likely cause it to rise quickly", correct: false },
+      { text: "Hold the insulin and start the feed", explanation: "Not quite", correct: false },
+      { text: "Give the insulin and start the feed ✅", explanation: "Correct!", correct: true }
     ]
   },
   {
